@@ -14,7 +14,12 @@ import in.co.rays.proj4.bean.SubjectBean;
 import in.co.rays.proj4.exception.DuplicateRecordException;
 import in.co.rays.proj4.exception.RecordNotFoundException;
 import in.co.rays.proj4.util.JDBCDataSource;
-
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 public class SubjectModel {
 	private static Logger log = Logger.getLogger(StudentModel.class);
 

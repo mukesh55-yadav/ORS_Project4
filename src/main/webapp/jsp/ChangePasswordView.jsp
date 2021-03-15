@@ -18,7 +18,7 @@
 		<jsp:useBean id="bean" class="in.co.rays.proj4.bean.UserBean"
 			scope="request"></jsp:useBean>
 
-		<div align="center" style="height: 360px;">
+		<div align="center" style="height: 320px;">
 			<h1>Change Password</h1>
 			
 			<H2>

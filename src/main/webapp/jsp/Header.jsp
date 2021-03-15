@@ -81,7 +81,7 @@
 <style>
 .header {
 	/* background-image: url("img/bg6.jpg"); */
-	background-color: #ffffff;
+	background-color: #f5f5f5;
 	position: relative;
 }
 
@@ -148,7 +148,7 @@
 <body>
 
 	<div class="header">
-
+<HR>
 		<%
 			UserBean userBean = (UserBean) session.getAttribute("user");
 
@@ -289,7 +289,8 @@
 				}
 			%>
 		</table>
+		<HR>
 	</div>
-	<HR color='black'>
+	
 </body>
 </html>

@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * User JavaBean encapsulates User attributes
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

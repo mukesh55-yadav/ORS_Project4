@@ -23,6 +23,9 @@ import in.co.rays.proj4.util.ServletUtility;
  * College functionality Controller. Performs operation for add, update, delete
  * and get College
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @ WebServlet(name="CollegeCtl",urlPatterns={"/ctl/CollegeCtl"})
 public class CollegeCtl extends BaseCtl 

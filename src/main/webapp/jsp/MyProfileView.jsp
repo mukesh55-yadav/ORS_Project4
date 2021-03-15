@@ -21,7 +21,7 @@
 			scope="request">
 		</jsp:useBean>
 
-		<div align="center"  style="height: 360px;">
+		<div align="center"  style="height: 320px;">
 			<h1>My Profile</h1>
 
 			<H2>

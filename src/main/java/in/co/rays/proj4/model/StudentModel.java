@@ -19,7 +19,7 @@ import in.co.rays.proj4.util.JDBCDataSource;
 /**
  * JDBC Implementation of Student Model
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  */

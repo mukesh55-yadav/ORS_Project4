@@ -3,7 +3,7 @@ package in.co.rays.proj4.bean;
 /**
  * Role JavaBean encapsulates Role attributes
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

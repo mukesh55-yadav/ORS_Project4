@@ -24,14 +24,13 @@ import org.apache.log4j.Logger;
  * Marksheet List functionality Controller. Performs operation for list, search
  * and delete operations of Marksheet
  * 
+ * Servlet implementation class MarksheetlistCtl
+ * 
  * @author SunilOS
  * @version 1.0
  * @Copyright (c) SunilOS
  */
 
-/**
- * Servlet implementation class MarksheetlistCtl
- */
 
 @ WebServlet(name="MarksheetListCtl",urlPatterns={"/ctl/MarksheetListCtl"})
 public class MarksheetListCtl extends BaseCtl {

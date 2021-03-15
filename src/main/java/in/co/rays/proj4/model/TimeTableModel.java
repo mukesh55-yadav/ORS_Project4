@@ -20,7 +20,12 @@ import in.co.rays.proj4.bean.SubjectBean;
 import in.co.rays.proj4.bean.TimeTableBean;
 import in.co.rays.proj4.util.DataUtility;
 import in.co.rays.proj4.util.JDBCDataSource;
-
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 @SuppressWarnings("unused")
 public class TimeTableModel {
 	public static Logger log = Logger.getLogger(TimeTableModel.class);

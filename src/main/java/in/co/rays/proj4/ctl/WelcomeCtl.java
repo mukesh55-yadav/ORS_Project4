@@ -12,7 +12,11 @@ import org.apache.log4j.Logger;
 import in.co.rays.proj4.ctl.BaseCtl;
 import in.co.rays.proj4.ctl.ORSView;
 import in.co.rays.proj4.util.ServletUtility;
-
+/**
+* @author Mukesh_Yadav
+* @version 1.0
+* @Copyright (c) SunilOS
+*/
 @WebServlet(name="WelcomeCtl", urlPatterns = { "/WelcomeCtl" })
 
 public class WelcomeCtl extends BaseCtl {

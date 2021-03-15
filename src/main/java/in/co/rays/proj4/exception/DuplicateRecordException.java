@@ -3,7 +3,7 @@ package in.co.rays.proj4.exception;
 /**
  * DuplicateRecordException thrown when a duplicate record occurred
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

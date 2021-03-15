@@ -6,8 +6,9 @@ import java.util.HashMap;
  * 
  * Class that build Application Email messages
  * 
- * @author MUKESH_TECHNIQUES
- *
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 public class EmailBuilder {
 	

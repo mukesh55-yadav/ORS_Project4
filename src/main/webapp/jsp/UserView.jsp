@@ -19,7 +19,7 @@
 <body>
 	<form action="<%=ORSView.USER_CTL%>" method="post">
 	
-		<div align="center" style="height: 420px;">
+		<div align="center" style="height: 380px;">
 
 		<jsp:useBean id="bean" class="in.co.rays.proj4.bean.UserBean"
 			scope="request"></jsp:useBean>
@@ -55,7 +55,7 @@
 		<input type="hidden" name="modifiedDatetime"
 			value="<%=DataUtility.getTimestamp(bean.getModifiedDatetime())%>">
 
-		<table align="center" style="margin-left: 38%;">
+		<table align="center" style="margin-left: 460px;">
 			<tr>
 				<th>First Name<font color="red">*</font></th>
 				<td><input type="text" name="firstName"

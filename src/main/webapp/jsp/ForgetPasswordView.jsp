@@ -19,7 +19,7 @@
 			scope="request">
 		</jsp:useBean>
 
-		<div align="center" style="height: 395px;">
+		<div align="center" style="height: 360px;">
 			<h1>Forgot your password?</h1>
 			<input type="hidden" name="id" value="<%=bean.getId()%>">
 

@@ -22,7 +22,7 @@ import in.co.rays.proj4.util.ServletUtility;
  * College List functionality Controller. Performs operation for list, search
  * and delete operations of College
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  */

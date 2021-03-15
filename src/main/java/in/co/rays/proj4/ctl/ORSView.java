@@ -3,6 +3,9 @@ package in.co.rays.proj4.ctl;
 /**
  * Contains ORS View and Controller URI
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 
 public interface ORSView {

@@ -30,7 +30,7 @@ body {
 <body>
 	<form action="<%=ORSView.WELCOME_CTL%>">
 	
-		<div align="center" style="height: 200px;">
+		<div align="center" style="height: 230px;">
 
 		<h1 align="Center" class="welcome">
 			<font size="10px" color="red">Welcome to ORS </font>

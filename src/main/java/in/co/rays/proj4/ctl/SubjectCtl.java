@@ -31,7 +31,10 @@ import in.co.rays.proj4.util.ServletUtility;
 /**
  * subject functionality Controller. Performs operation for add, update, delete
  * and get subject
- * 
+ *  
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @WebServlet(urlPatterns="/ctl/SubjectCtl")
 public class SubjectCtl extends BaseCtl 

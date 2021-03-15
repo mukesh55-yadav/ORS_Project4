@@ -4,7 +4,7 @@ package in.co.rays.proj4.exception;
  * ApplicationException is propogated from Service classes when an business
  * logic exception occurered.
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

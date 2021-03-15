@@ -24,7 +24,7 @@ import org.apache.log4j.Logger;
  * Change Password functionality Controller. Performs operation for Change
  * Password
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  */

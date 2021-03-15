@@ -21,6 +21,9 @@ import in.co.rays.proj4.util.ServletUtility;
 /**
  * Get Marksheet functionality Controller. Performs operation for Get Marksheet
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @WebServlet(name = "GetMarksheetCtl", urlPatterns = { "/ctl/GetMarksheetCtl" })
 public class GetMarksheetCtl extends BaseCtl {

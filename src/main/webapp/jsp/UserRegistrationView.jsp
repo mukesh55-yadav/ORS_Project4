@@ -112,8 +112,8 @@
 
 				<tr>
 					<th></th>
-					<td colspan="2">&emsp;&nbsp; <input type="submit" class="form-control"
-						name="operation" value="<%=UserRegistrationCtl.OP_SIGN_UP%>">&emsp;&nbsp;&nbsp;&nbsp;&nbsp;<input
+					<td colspan="2"> <input type="submit" class="form-control"
+						name="operation" value="<%=UserRegistrationCtl.OP_SIGN_UP%>">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input
 						type="submit" name="operation" class="form-control"
 						value="<%=UserRegistrationCtl.OP_RESET%>">
 					</td>

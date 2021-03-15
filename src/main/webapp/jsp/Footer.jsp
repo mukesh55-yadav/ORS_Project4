@@ -11,23 +11,21 @@
 <title>Online Result System</title>
 </head>
 <body>
-	<div id ="footer"></div>
-	<div class ="contaniner" style ="position: fixed; bottom: 0px; left: 520px;"> </div>
-</body>
-
+	
 <%
 		Calendar c = Calendar.getInstance();
 	%>
-	<br><div
-		style="position: fixed; height: 55px; bottom: 0; width: 100%; text-align: center; background-color: #ffffff">
-		<HR color='black'>
-		<H4 style="margin: 10px">
+	<div
+		style="position: relative; height: ; bottom: 0; width: 100%; text-align: center; background-color: #f5f5f5">
+		<HR>
+		
 			 <b> &copy; <%=c.getWeekYear()%> Rays Technologies
 			</b> 
-		</H4>
-		<HR color='black'>
+		
+		<HR>
 	</div>
-</br>
+
+</body>
 </html>
 
 <!-- color : #FADBD8 -->

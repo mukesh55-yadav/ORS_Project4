@@ -28,7 +28,7 @@
 		%>
 		<input type="hidden" name="URI" value="<%=uri%>">
 
-		<div align="center" style="height: 350px;">
+		<div align="center" style="height: 360px;">
 			<h1>Login</h1>
 
 			<H2>
@@ -55,7 +55,7 @@
 			 <input type="hidden" name="createdDatetime" value="<%=DataUtility.getTimestamp(bean.getCreatedDatetime())%>">
 			 <input type="hidden" name="modifiedDatetime" value="<%=DataUtility.getTimestamp(bean.getModifiedDatetime())%>">
 
-			<table align="center" style="margin-left: 38%;">
+			<table align="center" style="margin-left: 38%; height: 150px;">
 				<tr>
 					<th>LoginId<font color="red">*</font></th>
 					<td><input type="text" name="login" size=20 placeholder="Enter your Login ID"
@@ -78,7 +78,7 @@
 
 				<tr>
 					<th></th>
-					<td style:60px;" align="" &nbsp; &nbsp; &nbsp; ><a href="<%=ORSView.FORGET_PASSWORD_CTL%>"><b>Forget  Password?</b></a></td>
+					<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=ORSView.FORGET_PASSWORD_CTL%>"><b>Forget  Password?</b></a></td>
 				</tr>
 			</table>
 		</div>

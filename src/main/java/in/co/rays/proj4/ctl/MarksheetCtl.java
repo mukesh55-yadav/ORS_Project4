@@ -24,6 +24,10 @@ import in.co.rays.proj4.util.ServletUtility;
 /**
  * Marksheet functionality Controller. Performs operation for add, update,
  * delete and get Marksheet
+ * 
+ *  @author Mukesh_Yadav
+* @version 1.0
+* @Copyright (c) SunilOS
  * */
 @ WebServlet(name="MarksheetCtl",urlPatterns={"/ctl/MarksheetCtl"})
 public class MarksheetCtl extends BaseCtl

@@ -27,6 +27,9 @@ import in.co.rays.proj4.util.ServletUtility;
  * * User functionality Controller. Performs operation for add, update and get
  * User
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @WebServlet(name = "UserCtl", urlPatterns = { "/ctl/UserCtl" })
 

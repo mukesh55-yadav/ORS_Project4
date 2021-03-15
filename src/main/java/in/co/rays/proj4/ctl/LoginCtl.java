@@ -20,9 +20,12 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import org.apache.log4j.Logger;
-
-//Login functionality Controller. Performs operation for Login
-
+/**
+* Login functionality Controller. Performs operation for Login
+* @author Mukesh_Yadav
+* @version 1.0
+* @Copyright (c) SunilOS
+*/ 
 @WebServlet(name="LoginCtl", urlPatterns = { "/LoginCtl" })
 public class LoginCtl extends BaseCtl {
 

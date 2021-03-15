@@ -1,6 +1,11 @@
 package in.co.rays.proj4.bean;
 
-
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 public class SubjectBean extends BaseBean {
 	private String courseName;
 	private long courseId;

@@ -4,8 +4,9 @@ package in.co.rays.proj4.util;
  * 
  * Contains Email Message
  * 
- * @author MUKESH_TECHNIQUES
- *
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 public class EmailMessage {
 	

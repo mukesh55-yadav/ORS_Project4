@@ -17,7 +17,12 @@ import in.co.rays.proj4.bean.CollegeBean;
 import in.co.rays.proj4.bean.FacultyBean;
 import in.co.rays.proj4.bean.SubjectBean;
 import in.co.rays.proj4.util.JDBCDataSource;
-
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 public class FacultyModel {
 	public static Logger log = Logger.getLogger(FacultyModel.class);
 

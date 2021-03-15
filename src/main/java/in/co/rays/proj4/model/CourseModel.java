@@ -14,6 +14,13 @@ import in.co.rays.proj4.bean.CourseBean;
 import in.co.rays.proj4.bean.RoleBean;
 import in.co.rays.proj4.util.JDBCDataSource;
 
+
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 public class CourseModel {
 	private static Logger log = Logger.getLogger(CourseModel.class);
 

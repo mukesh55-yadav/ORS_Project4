@@ -26,6 +26,9 @@ import in.co.rays.proj4.util.ServletUtility;
  * subject List functionality Controller. Performs operation for list, search
  * and delete operations of subject
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @WebServlet(urlPatterns="/ctl/SubjectListCtl")
 public class SubjectListCtl extends BaseCtl

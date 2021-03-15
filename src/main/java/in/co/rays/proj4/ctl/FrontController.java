@@ -20,6 +20,9 @@ import in.co.rays.proj4.util.ServletUtility;
  * application without login.
  * it is a singal handler for all incoming request.
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 @WebFilter(urlPatterns={"/ctl/*","/doc/*"})
 public class FrontController implements Filter 

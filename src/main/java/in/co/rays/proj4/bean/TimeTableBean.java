@@ -1,7 +1,12 @@
 package in.co.rays.proj4.bean;
 
 import java.util.Date;
-
+/**
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
+ *
+ */
 public class TimeTableBean extends BaseBean {
 	private String courseName;
 	private long courseId;

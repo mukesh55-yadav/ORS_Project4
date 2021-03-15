@@ -4,7 +4,7 @@ package in.co.rays.proj4.exception;
  * DatabaseException is propogated by DAO classes when an unhandled Database
  * exception occurred
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

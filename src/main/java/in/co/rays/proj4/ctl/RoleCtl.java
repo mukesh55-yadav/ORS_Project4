@@ -23,6 +23,9 @@ import in.co.rays.proj4.util.ServletUtility;
  * Role functionality Controller. Performs operation for add, update and get
  * Role
  * 
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 
 @ WebServlet(name="RoleCtl",urlPatterns={"/ctl/RoleCtl"})

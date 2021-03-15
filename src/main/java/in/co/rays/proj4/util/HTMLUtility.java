@@ -15,8 +15,9 @@ import in.co.rays.proj4.model.BaseModel;
  * 
  * HTML Utility class to produce HTML contents like Dropdown List.
  * 
- * @author MUKESH_TECHNIQUES
- *
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 public class HTMLUtility {
 

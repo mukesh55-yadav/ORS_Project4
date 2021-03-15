@@ -6,8 +6,9 @@ import java.util.ResourceBundle;
  * 
  * Read the property values from application properties file using Resource
  * 
- * @author MUKESH_TECHNIQUES
- *
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 
 public class PropertyReader {

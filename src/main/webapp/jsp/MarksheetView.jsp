@@ -25,7 +25,7 @@
 			List l = (List) request.getAttribute("studentList");
 		%>
 
-		<div align="center" style="height: 360px;">
+		<div align="center" style="height: 320px;">
 		
 			<%
 				if (bean.getId() > 0) {

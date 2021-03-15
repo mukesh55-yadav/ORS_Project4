@@ -6,7 +6,7 @@ import java.sql.Timestamp;
 /**
  * Parent class of all Beans in application. It contains generic attributes.
  * 
- * @author SunilOS
+ * @author Mukesh_Yadav
  * @version 1.0
  * @Copyright (c) SunilOS
  * 

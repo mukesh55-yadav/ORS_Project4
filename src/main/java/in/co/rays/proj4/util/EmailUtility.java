@@ -16,8 +16,9 @@ import in.co.rays.proj4.exception.ApplicationException;
  * 
  * Email Utility provides Email Services
  * 
- * @author MUKESH_TECHNIQUES
- *
+ * @author Mukesh_Yadav
+ * @version 1.0
+ * @Copyright (c) SunilOS
  */
 public class EmailUtility {
 	
