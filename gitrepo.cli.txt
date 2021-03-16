@@ -4,8 +4,8 @@ ls
 git init
 git add .
 git commit -m "msg"
-git remote add origin "repo name"
-git push origin master
+git remote add origin "repo name"(https://github.com/mukesh55-yadav/ORS_Project4.git)
+git push origin master(to send file local repo to git repo) ,git pull origin master(to send file git repo to local repo)
 git status
 
 
