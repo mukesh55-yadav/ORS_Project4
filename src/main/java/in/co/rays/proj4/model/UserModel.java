@@ -389,7 +389,7 @@ public class UserModel {
 				sql.append(" AND PASSWORD like '" + bean.getPassword() + "%'");
 			}
 			if (bean.getDob() != null && bean.getDob().getDate() > 0) {
-				sql.append(" AND DOB = " + bean.getGender());
+				sql.append(" AND DOB = " + bean.getDob());
 			}
 			if (bean.getMobileNo() != null && bean.getMobileNo().length() > 0) {
 				sql.append(" AND MOBILE_NO = " + bean.getMobileNo());

@@ -16,7 +16,7 @@
 		Calendar c = Calendar.getInstance();
 	%>
 	<div
-		style="position: relative; height: ; bottom: 0; width: 100%; text-align: center; background-color: #f5f5f5">
+		style="position: relative; height:; bottom: 0; width: 100%; text-align: center; background-color: #f5f5f5">
 		<HR>
 		
 			 <b> &copy; <%=c.getWeekYear()%> Rays Technologies

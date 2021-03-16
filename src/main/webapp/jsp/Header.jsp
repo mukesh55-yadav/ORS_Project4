@@ -82,7 +82,7 @@
 .header {
 	/* background-image: url("img/bg6.jpg"); */
 	background-color: #f5f5f5;
-	position: relative;
+	position: static;
 }
 
 .form-control {
@@ -138,7 +138,7 @@
 }
 
 .msgval {
-	height: 5px;
+	height: 15px;
 	padding-bottom: 25px;
 }
 </style>
@@ -148,7 +148,7 @@
 <body>
 
 	<div class="header">
-<HR>
+
 		<%
 			UserBean userBean = (UserBean) session.getAttribute("user");
 

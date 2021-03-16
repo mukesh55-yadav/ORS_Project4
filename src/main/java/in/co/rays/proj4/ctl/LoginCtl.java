@@ -200,7 +200,7 @@ public class LoginCtl extends BaseCtl {
 
 		} else if (OP_SIGN_UP.equalsIgnoreCase(op)) {
 
-			ServletUtility.forward(ORSView.USER_REGISTRATION_CTL, request, response);
+			ServletUtility.redirect(ORSView.USER_REGISTRATION_CTL, request, response);
 			return;
 
 		}
