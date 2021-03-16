@@ -1,0 +1,15 @@
+git config --global user.name "mukesh------"
+git config --global user.email "-----@gmail.com"
+ls
+git init
+git add .
+git commit -m "msg"
+git remote add origin "repo name"
+git push origin master
+git status
+
+
+
+
+my git url
+https://mukesh55-yadav.github.io/ORS_Project4/
