@@ -1,4 +1,4 @@
-git config --global user.name "mukesh------"
+git config --global user.name "------"
 git config --global user.email "-----@gmail.com"
 ls
 git init
