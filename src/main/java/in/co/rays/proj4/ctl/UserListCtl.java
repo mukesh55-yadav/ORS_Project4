@@ -98,7 +98,7 @@ public class UserListCtl extends BaseCtl
 	        
 	        //System.out.println("i m in doget of userctl operation"+op);
 	        // get the selected checkbox ids array for delete list
-	        String[] ids = request.getParameterValues("ids");   //to get muliple ids through check box //like movie tkt booking seats are check box
+	       // String[] ids = request.getParameterValues("ids");   //to get muliple ids through check box //like movie tkt booking seats are check box
 	        UserModel model = new UserModel();
 	        try {
 	            list = model.search(bean, pageNo, pageSize);
