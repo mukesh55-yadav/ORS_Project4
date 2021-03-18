@@ -28,7 +28,7 @@
 		%>
 		<input type="hidden" name="URI" value="<%=uri%>">
 
-		<div align="center" style="height: 360px;">
+		<div align="center" style="height: 367px;">
 			<h1>Login</h1>
 
 			<H2>
